@@ -13,3 +13,5 @@ User_Search_Queries.csv contains the list of 264793 search queries.
 Google_Docs_Error_List.txt contains the error list including the suggestions made by Google Docs.
 
 Hunspell_Error_List.txt contains the error list including the suggestions made by Hunspell.
+
+Results.txt contain the results that were encountered given different settings.
